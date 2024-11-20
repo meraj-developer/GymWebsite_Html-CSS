@@ -1,0 +1,405 @@
+.aboutimg{
+    width: 100%;
+    height: 400px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,1.5)),url(./images/gym17.jpg);
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: black;
+  }
+
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+.under{
+    margin-left: 442px;
+    margin-right: 31px;
+    height: 90px;
+    padding-top: 45px;
+    font-size: 25px;
+    font-weight: bold;
+  }
+
+  .active:hover{
+    color:red;
+  }
+
+  .abt{
+    color: red;
+  }
+
+  .our:hover{
+    color: red;
+  }
+
+  .cla:hover{
+    color: red;
+  }
+
+  .pa:hover{
+    color: red;
+  }
+
+  .cl:hover{
+    color: red;
+  }
+
+  .text1{
+    position: absolute;
+    top: 70px;
+    font-size: 55px;
+    color: white;
+    font-weight: 905;
+    margin-left: 10px;
+}
+
+.text11
+{
+    position: absolute;
+    top: 265px;
+    font-size: 55px;
+    color: white;
+    font-weight: 905;
+    margin-left: 586px;
+}
+
+.text21
+{
+    position: absolute;
+    top: 330px;
+    font-size: 20px;
+    color: white;
+    font-weight: 905;
+    margin-left: 640px;
+}
+
+.gym3{
+    height: 310px;
+    position: relative;
+    top: 300px;
+    margin-left: 139px;
+    width: 473px;
+}
+
+.exp2{
+    font-size: 52px;
+    margin-top: -27px;
+    position: absolute;
+    margin-left: 630px;
+    font-weight: bold;
+}
+
+.labore{
+    margin-top: 47px;
+    position: absolute;
+    margin-left: 629px;
+    margin-right: 147px;
+    font-weight: lighter;
+}
+
+.award img{
+    height: 13vh;
+    margin-top: 98px;
+    margin-left: 1030px;
+    position: absolute;
+}
+
+.exercise img{
+    height: 13vh;
+    margin-top: 102px;
+    margin-left: 710px;
+}
+
+.exer{
+    font-size: xx-large;
+    margin-top: -5px;
+    text-align: center;
+    margin-left: 880px;
+}
+
+.exer2{
+    font-size: 20px;
+    margin-top: 5px;
+    margin-left: 957px;
+    margin-top: 11px;
+}
+
+.win{
+    margin-left: 288px;
+    margin-top: -146px;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.wins{
+    margin-left: 660px;
+    font-size: 20px;
+    text-align: left;
+    margin-top: 4px;
+}
+
+
+.progression img {
+    display: inline-block;
+    height: 20vh;
+    margin-top: 50px;
+    margin-left: 25px;
+}
+
+.progression {
+    height: 300px;
+    background-color: #847979;
+    margin-top: 100px;
+    margin-left: -13px;
+    width: 400px;
+}
+
+.pro{
+    margin-left: 155px;
+    font-size: 45px;
+    color: white;
+    margin-top: -148px;
+}
+
+.prog{
+    margin-left: 155px;
+    color: white;
+    text-align: left;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.wor
+{
+    margin-left: 217px;
+    font-size: 46px;
+    color: white;
+    margin-top: -151px;
+}
+
+.workout img {
+    display: inline-block;
+    height: 20vh;
+    margin-top: 50px;
+    margin-left: 55px;
+}
+
+.workout {
+    height: 300px;
+    background-color: red;
+    color: black;
+    margin-left: 373px;
+    margin-top: -300px;
+    width: 441px;
+}
+
+.work {
+    margin-left: 230px;
+    font-size: 20px;
+    color: white;
+    text-align: left;
+    margin-top: 10px;
+}
+
+.nutrition {
+    height: 300px;
+    background-color: #847979;
+    margin-left: 813px;
+    margin-top: -300px;
+    width: 441px;
+}
+
+.nutrition img {
+    display: inline-block;
+    height: 20vh;
+    margin-top: 50px;
+    margin-left: 55px;
+}
+
+.nut{
+    margin-left: 226px;
+    font-size: 46px;
+    color: white;
+    margin-top: -151px;
+}
+
+.nutr{
+    margin-left: 225px;
+    font-size: 20px;
+    color: white;
+    text-align: left;
+    margin-top: 9px;
+}
+
+.trainers{
+    color: red;
+    margin-top: 40px;
+    text-align: center;
+    font-size: 35px;   
+}
+
+.experts{
+    text-align: center;
+    font-size: 53px;
+}
+
+.gymer{
+    height: 304px;
+    width: 221px;
+    margin-left: 154px;
+    padding: -4px;
+    margin-right: -130px;
+    margin-top: 20px;
+}
+
+.tname{
+    margin-left: 155px;
+    height: 95px;
+    background-color: black;
+    margin-top: -98px;
+    position: absolute;
+    width: 221px;
+}
+
+.tname1,.tname4,.tname7,.tname10{
+    color: red;
+    margin-left: 19px;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.tname2,.tname5,.tname8,.tname11{
+    color: white;
+    margin-left: 58px;
+    font-size: 26px;
+    font-weight: initial;
+    margin-top: -20px;
+}
+
+.tname3{
+    margin-left: 403px;
+    height: 95px;
+    background-color: black;
+    margin-top: -99px;
+    position: absolute;
+    width: 221px;
+}
+
+.tname6{
+    margin-left: 653px;
+    height: 95px;
+    background-color: black;
+    margin-top: -99px;
+    position: absolute;
+    width: 221px;
+}
+
+.tname9{
+    margin-left: 902px;
+    height: 95px;
+    background-color: black;
+    margin-top: -99px;
+    position: absolute;
+    width: 221px;
+}
+
+.img17{
+    background-image: url(./images/gym17.jpg);
+    background-size: cover;
+    height: 401px;
+    margin-top: 121px;
+}
+
+.overlay{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    color: white;
+    flex-direction: column;
+    align-items: center;
+}
+
+.overlay1
+{
+    color: red;
+    font-size: 30px;
+    margin-left: -875px;
+    margin-top: 86px;
+}
+
+.overlay2{
+    color: red;
+    font-size: 30px;
+    margin-left: -110px;
+    margin-top: -122px;
+}
+
+.overlay3
+{
+    color: red;
+    font-size: 30px;
+    margin-left: 511px;
+    margin-top: -207px;
+}
+
+.overlay4
+{
+    color: red;
+    font-size: 30px;
+    margin-left: 1011px;
+    margin-top: 82px;
+    position: absolute;
+}
+
+.fas{
+    margin-left: -734px;
+    font-size: 22px;
+    margin-top: -40px;
+    margin-left: -350px;
+}
+
+.fas2{
+    padding-top: 100px;
+    font-size: 24px;
+    margin-top: -140px;
+    margin-left: -137px;
+}
+
+.fas3{
+    padding-top: 100px;
+    font-size: 24px;
+    margin-top: -144px;
+    margin-left: 458px;
+}
+
+.fas4{
+    padding-top: 100px;
+    font-size: 24px;
+    margin-top: -267px;
+    margin-left: 1013px;
+}
+
+.fas5{
+    font-size: 30px;
+    margin-top: 107px;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+.social-icons{
+    font-size: 10px;
+    margin-left: -77px;
+}
+

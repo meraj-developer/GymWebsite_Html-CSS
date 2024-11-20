@@ -1,0 +1,457 @@
+.aboutimg{
+    width: 100%;
+    height: 400px;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,1.5)),url(./images/gym17.jpg);
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: black;
+  }
+
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+.under{
+    margin-left: 442px;
+    margin-right: 31px;
+    height: 90px;
+    padding-top: 45px;
+    font-size: 25px;
+    font-weight: bold;
+  }
+
+  .active:hover{
+    color:red;
+  }
+
+  .abt:hover{
+    color: red;
+  }
+
+  .our{
+    color: red;
+  }
+
+  .cla:hover{
+    color: red;
+  }
+
+  .pa:hover{
+    color: red;
+  }
+
+  .cl:hover{
+    color: red;
+  }
+
+  .text1{
+    position: absolute;
+    top: 70px;
+    font-size: 55px;
+    color: white;
+    font-weight: 905;
+    margin-left: 10px;
+}
+
+.text11
+{
+    position: absolute;
+    top: 265px;
+    font-size: 55px;
+    color: white;
+    font-weight: 905;
+    margin-left: 440px;
+}
+
+.text21
+{
+    position: absolute;
+    top: 330px;
+    font-size: 20px;
+    color: white;
+    font-weight: 905;
+    margin-left: 550px;
+}
+
+.why{
+  text-align: center;
+  margin-top: 361px;
+  font-size: 20px;
+  color: red;
+}
+
+.benefit{
+  text-align: center;
+  font-size: 57px;
+  margin-left: 130px;
+  margin: 20px;
+  margin-top: 15px;
+}
+
+.vi{
+  height: 79px;
+  width: 87px;
+  background-color: red;
+  margin-left: 319px;
+  margin-top: -185px;
+}
+
+.backgroundimage{
+  background-image: url(./images/gym9.jpg);
+  background-size: cover;
+  height: 156px;
+  margin-top: 107px;
+  margin-left: 151px;
+  width: 229px;
+}
+
+.vii{
+  height: 77px;
+  margin-left: 8px;
+}
+
+.vid{
+  display: inline-block;
+  height: 250px;
+  margin-top: 200px;
+  margin-left: 200px;
+}
+
+.vide{
+  font-size: 26px;
+  white-space: nowrap;
+  margin-top: -57px;
+  margin-left: 408px;
+  font-weight: revert;
+}
+
+.video
+{
+    text-align: left;
+    font-size: 17px;
+    white-space: nowrap;
+    margin-left: 410px;
+    margin-top: 17px;
+}
+
+.backgroundimage2{
+  background-image: url(./images/gym11.jpg);
+  background-size: cover;
+  height: 156px;
+  margin-top: -164px;
+  margin-left: 705px;
+  width: 229px;
+}
+
+.tr{
+  height: 79px;
+  width: 87px;
+  background-color: red;
+  margin-left: 863px;
+  margin-top: -184px;
+}
+
+.trr{
+  height: 70px;
+  margin-left: 8px;
+  margin-top: 5px;
+}
+
+.train{
+  font-size: 26px;
+  white-space: nowrap;
+  margin-top: -57px;
+  margin-left: 951px;
+  font-weight: revert;
+}
+
+.traini
+{
+  text-align: left;
+  font-size: 17px;
+  white-space: nowrap;
+  margin-left: 954px;
+  margin-top: 17px;
+}
+
+
+
+.backgroundimage3{
+  background-image: url(./images/gym10.jpg);
+  background-size: cover;
+  height: 156px;
+  margin-top: 107px;
+  margin-left: 149px;
+  width: 229px;
+}
+
+.fr{
+  height: 79px;
+  width: 87px;
+  background-color: red;
+  margin-left: 316px;
+  margin-top: -185px;
+}
+
+.frr{
+  height: 77px;
+  margin-left: 8px;
+}
+
+.free{
+  font-size: 26px;
+  white-space: nowrap;
+  margin-top: -57px;
+  margin-left: 404px;
+  font-weight: revert;
+}
+
+.frees
+{
+  text-align: left;
+  font-size: 17px;
+  white-space: nowrap;
+  margin-left: 408px;
+  margin-top: 17px;
+}
+
+.backgroundimage4{
+  background-image: url(./images/gym12.jpg);
+  background-size: cover;
+  height: 156px;
+  margin-top: -152px;
+  margin-left: 704px;
+  width: 229px;
+}
+
+.co{
+  height: 79px;
+  width: 87px;
+  background-color: red;
+  margin-left: 879px;
+  margin-top: -184px;
+}
+
+.coo{
+  height: 70px;
+  margin-left: 8px;
+  margin-top: 5px;
+}
+
+.commun{
+  font-size: 26px;
+  white-space: nowrap;
+  margin-top: -57px;
+  margin-left: 966px;
+  font-weight: revert;
+}
+
+.communi
+{
+  text-align: left;
+  font-size: 17px;
+  white-space: nowrap;
+  margin-left: 969px;
+  margin-top: 17px;
+}
+
+.client{
+  background-color: black;
+  width: 491px;
+  margin-top: 100px;
+  margin-left: 156px;
+  height: 405px;
+}
+
+.profile-img{
+  background-image: url(./images/gym23.jpg);
+  width: 94px;
+  height: 98px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 50%;
+  margin-top: 14px;
+  margin-left: 16px;
+}
+
+.cli{
+  color: red;
+  margin-bottom: px;
+  margin-top: -94px;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 100;
+}
+
+.Professional{
+  color: white;
+  font-size: 73px;
+  margin-left: 152px;
+  font-weight: unset;
+  font-size: 20px;
+}
+
+.box {
+  position: relative;
+  width: 462px;
+  height: 177px;
+  background-color: #343a40;
+  margin: 50px;
+  border-radius: 10px;
+  border: 2px solid white;
+  margin-left: 14px;
+  margin-top: 40px;
+}
+
+.box::before {
+  content: '';
+  position: absolute;
+  top: -10px;
+  left: 19px;
+  border-width: 0 10px 10px 10px;
+  border-style: solid;
+  border-color: transparent transparent white transparent;
+}
+
+.sed
+{
+  color: white;
+  margin-left: 30px;
+  font-weight: lighter;
+  font-size: 26px;
+  padding-top: 20px;
+}
+
+.backgroundimage5{
+  background-image: url(./images/gym25.jpg);
+  margin-left: 647px;
+  margin-top: -425px;
+  background-size: cover;
+  margin-right: 141px;
+  height: 405px;
+}
+
+.test{
+  color: red;
+  padding-top: 38px;
+  padding-left: 10px;
+  font-size: 30px;
+}
+
+.what{
+  color: white;
+  margin-left: 12px;
+  font-weight: revert;
+  font-size: 55px;
+
+}
+
+.vero2{
+  color: white;
+  margin-left: 15px;
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.img17{
+  background-image: url(./images/gym17.jpg);
+  background-size: cover;
+  height: 401px;
+  margin-top: 121px;
+}
+
+.overlay{
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+  display: flex;
+  color: white;
+  flex-direction: column;
+  align-items: center;
+}
+
+.overlay1
+{
+  color: red;
+  font-size: 30px;
+  margin-left: -875px;
+  margin-top: 86px;
+}
+
+.overlay2{
+  color: red;
+  font-size: 30px;
+  margin-left: -110px;
+  margin-top: -122px;
+}
+
+.overlay3
+{
+  color: red;
+  font-size: 30px;
+  margin-left: 511px;
+  margin-top: -207px;
+}
+
+.overlay4
+{
+  color: red;
+  font-size: 30px;
+  margin-left: 1011px;
+  margin-top: 82px;
+  position: absolute;
+}
+
+.fas{
+  margin-left: -734px;
+  font-size: 22px;
+  margin-top: -40px;
+  margin-left: -350px;
+}
+
+.fas2{
+  padding-top: 100px;
+  font-size: 24px;
+  margin-top: -140px;
+  margin-left: -137px;
+}
+
+.fas3{
+  padding-top: 100px;
+  font-size: 24px;
+  margin-top: -144px;
+  margin-left: 458px;
+}
+
+.fas4{
+  padding-top: 100px;
+  font-size: 24px;
+  margin-top: -267px;
+  margin-left: 1013px;
+}
+
+.fas5{
+  font-size: 30px;
+  margin-top: 107px;
+  font-weight: bold;
+  font-family: cursive;
+}
+
+.social-icons{
+  font-size: 10px;
+  margin-left: -77px;
+}
+
+
+
